@@ -1,6 +1,6 @@
 # Natours Landing Page
 
-Demo: [https://ar-natours.netlify.com/](https://ar-natours.netlify.com/)
+Demo: [https://lesha1201-natours.netlify.com/](https://lesha1201-natours.netlify.com/)
 
 Project from the advanced CSS3 course by Jonas Schmedtmann
 
